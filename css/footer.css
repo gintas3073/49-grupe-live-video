@@ -1,0 +1,18 @@
+.social-list {
+    display: flex;
+    gap: 20px;
+}
+
+.social-list>.icon {
+    font-size: 24px;
+    color: red;
+    text-decoration: none;
+}
+
+.social-list>.icon:hover {
+    color: green;
+}
+
+.copyright {
+    font-style: italic;
+}
